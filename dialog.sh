@@ -1,0 +1,1 @@
+echo $(dialog --backtitle linha-por-linha-sh --stdout --menu "Arquivos em $(pwd)" 0 0 0 'Um exemplo' ''  'Outro exemplo' '')
